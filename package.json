@@ -7,7 +7,8 @@
     "start": "vuepress dev docs",
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "publish": "deploy.sh"
+	"show-help": "vuepress --help",
+    "deploy": "bash deploy.sh"
   },
   "keywords": [],
   "author": "",
