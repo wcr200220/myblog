@@ -42,6 +42,9 @@ c.运行：yarn rundev 或者 npm run dev
 # 本地代码推送到github上
 
 在项目根路径下（cd /d/vsWorkspace/projects/myblog）
+
 git init
+
 git remote add origin https://github.com/wcr200220/myblog.git
+
 git push -u origin master
