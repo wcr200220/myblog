@@ -48,3 +48,11 @@ git init
 git remote add origin https://github.com/wcr200220/myblog.git
 
 git push -u origin master
+
+
+
+使用deploy自动部署vuepress静态网站至GitHub Pages：
+
+执行：yarn deploy
+
+完成后通过：https:wcr200220.github.io访问。也可以在Git仓库点settings，查看部署后的 Github Pages 地址。
