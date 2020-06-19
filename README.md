@@ -55,4 +55,4 @@ git push -u origin master
 
 执行：yarn deploy
 
-完成后通过：https:wcr200220.github.io访问。也可以在Git仓库点settings，查看部署后的 Github Pages 地址。
+完成后通过：https://wcr200220.github.io访问。也可以在Git仓库点settings，查看部署后的 Github Pages 地址。
