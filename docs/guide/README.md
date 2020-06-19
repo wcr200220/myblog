@@ -7,7 +7,7 @@ sidebarDepth: 2
 # 手把手教你使用 VuePress 搭建个人博客
 
 ::: tip 提示
-有阅读障碍的同学，可以跳过第一至四节，下载我写好的[工具包](https://github.com/zhangyunchencc/vuepress-devkit.git): 
+有阅读障碍的同学，可以跳过第一至四节，下载我写好的[工具包](https://github.com/wcr200220/myblog): 
 `git clone https://github.com/wcr200220/myblog.git 然后从第五节开始看。
 :::
 
